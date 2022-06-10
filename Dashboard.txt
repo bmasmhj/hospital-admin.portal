@@ -1,0 +1,34 @@
+Dashboard
+Website
+    - Website info
+        - website details
+        - Marque
+        - Social
+
+    - Website Ddetails
+        - Crosel    
+        - Services
+
+Services
+    - Emergency
+    - Regular
+    - Health packagae
+
+Specialities
+
+Bookings
+    - Health Package
+    - Appoitnments
+
+Users
+    - Users  
+    - Doctors
+    - Rececptions   
+
+Records
+    - Payments
+    - Mediacal report
+
+Message
+    - Feedbacks
+    - Contacts
